@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 				    break; 
 					}//Fin del caso 2. 
 			}//Fin del switch que evalua la opcion. 
-		}
+		}//Fin del if que valida los negativos. 
 	}//Fin del while que reinicia el menu. 
 	return 0;
 }
